@@ -1,0 +1,132 @@
+<footer id="footer">
+ 
+		<div class="container">
+   <div class="row">
+  <div class="footerbottom">
+    <div class="col-md-3 col-sm-6">
+      <div class="footerwidget">
+        <h4>
+          Course Categories
+        </h4>
+        <div class="menu-course">
+          <ul class="menu">
+            <li><a href="courses.html#1">
+                Environmental Sudies 
+              </a>
+            </li>
+            <li><a href="courses.html#2">
+                English Language
+              </a>
+            </li>
+            <li><a href="courses.html#3">
+                Mathematics	
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 col-sm-6">
+      <div class="footerwidget">
+        <h4>
+          Links to Follow
+        </h4>
+        <div class="menu-course">
+          <ul class="menu">
+            <li> <a href="https://www.abilities.com/community/parents-20things.html">
+                You Must Know </a>
+            </li>
+            <li><a href="https://kidshealth.org/en/parents/discipline-special.html">
+            	How to Deal
+              </a>
+            </li>
+            <li><a href="https://www.verywellfamily.com/what-are-special-needs-3106002">
+                What to Expect
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 col-sm-6">
+      <div class="footerwidget">
+        <h4>
+          Browse through our Website
+        </h4>
+        <div class="menu-course">
+          <ul class="menu">
+            <li><a href="index.html">
+                Home
+              </a>
+            </li>
+            <li> <a href="about.html">
+                About
+              </a>
+            </li>
+            <li><a href="videos.html">
+                Books
+              </a>
+            </li>
+            <li>
+              <a href="sidebar-right.html">
+                Feedback
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 col-sm-6"> 
+            	<div class="footerwidget"> 
+                         <h4>Contact</h4> 
+                        <br>
+            <div class="contact-info"> 
+            <i class="fa fa-map-marker"></i> &nbsp&nbspMumbai, Maharashtra - India<br><br>
+            <i class="fa fa-phone"></i> &nbsp&nbsp+91 7045489328 <br><br>
+             <i class="fa fa-envelope-o"></i>&nbsp&nbspaunshumansaha9@gmail.com<br>
+              </div> 
+                </div><!-- end widget --> 
+    </div>
+  </div>
+</div>
+			<div class="social text-center">
+				<a href="https://twitter.com/login?lang=en"><i class="fa fa-twitter"></i></a>
+				<a href="https://en-gb.facebook.com/login/"><i class="fa fa-facebook"></i></a>
+				<a href="https://www.linkedin.com/login"><i class="fa fa-linkedin"></i></a>
+				<a href="https://account.microsoft.com/account?lang=en-us"><i class="fa fa-envelope-o"></i></a>
+				<a href="https://github.com/aunshumansaha9/Software-Development-Educator-System"><i class="fa fa-github"></i></a>
+			</div>
+
+			<div class="clear"></div>
+			<!--CLEAR FLOATS-->
+		</div>
+		<div class="footer2">
+			<div class="container">
+				<div class="row">
+
+					<div class="col-md-6 panel">
+						<div class="panel-body">
+							<p class="simplenav">
+								<a href="index.html">Home</a> | 
+								<a href="about.html">About</a> |
+								<a href="courses.html">Courses</a> |
+								<a href="price.html">Quiz</a> |
+								<a href="videos.html">Books</a> |
+								<a href="contact.html">Contact Us</a>
+							</p>
+						</div>
+					</div>
+
+					<div class="col-md-6 panel">
+						<div class="panel-body">
+							<p class="text-right">
+								Copyright &copy; 2020, Thakur College of Engineering & Tech.
+							</p>
+						</div>
+					</div>
+
+				</div>
+				<!-- /row of panels -->
+			</div>
+		</div>
+	</footer>
